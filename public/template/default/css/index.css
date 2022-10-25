@@ -1,0 +1,29 @@
+
+.resize-img{
+    width: 100%;
+    height: 700px;
+}
+
+.resize-img-category{
+    width: 298px;
+    height: 398px;
+}
+
+.resize-img-book{
+    width: 100%;
+    height: 340px;
+}
+
+.resize-img-specialBook{
+    width: 100%;
+    height: 400px;
+}
+
+.resize-img-bookRelate{
+    height: 270px;
+}
+.resize-img-specialBookList{
+    width: 150px;
+    height: 230px;
+    padding-bottom: 20px;
+}
